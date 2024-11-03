@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 
 using namespace std;
@@ -120,7 +120,6 @@ int main()
     para1.SetBase(20);
     para1.SetHeight(13);
     para1.SetLateralSide(14.5);
-    para1.SetColor("Red123");
+    para1.SetColor("Red");
     para1.Info();
 }
-
